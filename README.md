@@ -1,2 +1,2 @@
-# storm-practice
+# Storm Examples Practice
 Learning Apache Storm
